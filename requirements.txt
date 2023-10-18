@@ -1,0 +1,11 @@
+sentence-transformers==2.2.2
+pymilvus==2.3.1
+# gradio
+# pyyaml
+# accelerate
+# dashscope
+# einops
+# transformers_stream_generator
+# auto-gptq
+# optimum
+# tiktoken
