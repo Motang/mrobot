@@ -9,3 +9,4 @@ transformers_stream_generator==0.0.4
 auto-gptq==0.3.1
 optimum==1.13.2
 tiktoken==0.5.1
+openai==0.28.1
